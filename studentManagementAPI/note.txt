@@ -1,0 +1,36 @@
+PROJECT :
+
+Fast API:
+
+
+Mkdir = create a folder.
+cd folder name = enter the folder.
+cd .. = leve the folder.
+node --version = v24.16.0(It check my node version).
+Create React + Vite: npm create vite@latest . -- --template react
+
+python -m venv .venv = create ver tual envaro ment .
+
+.\.venv\Scripts\Activate.ps1 = Active virtual encvaroment .
+
+install uvicorn = pip install fastapi uvicorn
+
+cleck = pip list
+
+python -m uvicorn main:app --reload = start fastapi server
+
+use swagger UI = it is very use full because you can test your API directly from browser .(http://127.0.0.1:8000/docs)
+
+pydantic = Pydantic is a Python library that helps you define the structure of data and automatically validate that data.
+
+1.use crude operation (HTTP request):
+
+==> GET      = Read all data. 
+    POST     = Add data.
+    PUT      = Update data.
+    DELETE   = Delete data.
+
+
+
+
+
