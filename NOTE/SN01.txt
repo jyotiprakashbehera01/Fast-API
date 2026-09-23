@@ -1,0 +1,23 @@
+Fast API = It has python frame-work 
+           (It build backend web api)
+-> It popular because it has Fast .
+-> reletively it is easy to learn .
+-> async python .
+-> It has validate data automatically .
+   (use pydantic)
+-> It has generate interactive data automatically .
+
+1.Rest API = It is a set of rule, 
+             It a way for a frontend & backend communicate withh each other .
+             GET    : Read data
+             POST   : Add data
+             PUT    : updated data
+             DELETE : Delete data
+HTTP method = It tell the server what action you want to perform .
+              (Useing HTTP method called crude operation).
+ENDPOINT = An ENDPOINT is specific url in api that client  use to access a perticular resource (or)
+           perform a specific operation .
+
+
+
+
